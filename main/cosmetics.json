@@ -1,0 +1,35 @@
+{
+  "capes":[
+    {
+      "id": "lesbian_cape_2025",
+      "name": "Lesbian Cape",
+      "texture":"https://raw.githubusercontent.com/N0badyy/ArcaneCosmetics/main/main/textures/capes/pride/lesbian2025.png",
+      "animation":false
+    },
+    {
+      "id": "gay_cape_2025",
+      "name": "Gay Cape",
+      "texture":"https://raw.githubusercontent.com/N0badyy/ArcaneCosmetics/main/main/textures/capes/pride/gay2025.png",
+      "animation":false
+    },
+    {
+      "id": "bisexual_cape_2025",
+      "name": "Bisexual Cape",
+      "texture":"https://raw.githubusercontent.com/N0badyy/ArcaneCosmetics/main/main/textures/capes/pride/bisexual2025.png",
+      "animation":false
+    },
+    {
+      "id": "trans_cape_2025",
+      "name": "Trans Cape",
+      "texture":"https://raw.githubusercontent.com/N0badyy/ArcaneCosmetics/main/main/textures/capes/pride/trans2025.png",
+      "animation":false
+    },
+    {
+      "id": "pride_cape_2025",
+      "name": "Pride Cape",
+      "texture":"https://raw.githubusercontent.com/N0badyy/ArcaneCosmetics/main/main/textures/capes/pride/pride2025.png",
+      "animation":false
+    }
+  ]
+
+}
